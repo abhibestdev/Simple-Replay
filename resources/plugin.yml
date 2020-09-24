@@ -1,0 +1,5 @@
+name: Replay
+author: abhi
+version: 1.0
+main: me.abhi.replay.ReplayPlugin
+depend: [mCore]
